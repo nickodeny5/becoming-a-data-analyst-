@@ -10,3 +10,14 @@ Learning plan (in this exact order):
 5. Python + Pandas + visualization libraries
 
 This repo will document every single step with real projects, screenshots, and code.
+
+### Folder Structure (what’s coming)
+/01-my-sql                  → .sql files + practice databases
+/02-excel                   → .xlsx workbooks + screenshots
+/03-tableau                 → .twb workbooks + exported .png dashboards
+/04-power-bi                → .pbix files + exported reports
+/05-python-pandas           → Jupyter notebooks + cleaned datasets
+/learning-log.md            → One line per day
+/certificates/              → When I finish courses
+
+
