@@ -6,8 +6,10 @@ SELECT first_name,
 last_name,
 gender,
 age,
-age + 10
+(age + 1) * 2 
 FROM parks_and_recreation.employee_demographics;
 
+
+#DISTINCT selects unique values from the table
 SELECT DISTINCT gender
 FROM parks_and_recreation.employee_demographics;
