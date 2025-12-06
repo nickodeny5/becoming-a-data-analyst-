@@ -1,1 +1,5 @@
 --WHERE Clause - used to filter record/rows of data
+
+SELECT *
+FROM employee_salary
+WHERE first_name = "Leslie";
