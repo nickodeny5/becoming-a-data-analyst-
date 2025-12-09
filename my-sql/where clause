@@ -3,3 +3,8 @@
 SELECT *
 FROM employee_salary
 WHERE first_name = "Leslie";
+
+
+SELECT *
+FROM employee_demographics
+WHERE last_name = "John";
