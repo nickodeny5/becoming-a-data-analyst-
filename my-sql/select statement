@@ -21,3 +21,4 @@ FROM parks_and_recreation.employee_demographics;
 SELECT last_name,
 gender,
 age
+(age + 2) * 10
