@@ -22,3 +22,9 @@ SELECT last_name,
 gender,
 age
 (age + 2) * 10
+
+SELECT *
+FROM parks_and_recreation.employee_demographics;
+
+SELECT first_name
+(age / 3)
