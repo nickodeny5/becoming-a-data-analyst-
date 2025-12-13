@@ -28,3 +28,9 @@ FROM parks_and_recreation.employee_demographics;
 
 SELECT first_name
 (age / 3)
+
+SELECT birth_date,
+age,
+gender
+FROM parks_and_recreation.employee_demographics;
+FROM parks_and_recreation.mployee_demographics;
